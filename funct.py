@@ -1,0 +1,6 @@
+mylist = range(20,30)
+#print(mylist)
+print(len(mylist))
+print(max(mylist))
+print(min(mylist))
+print(max(200,300,989))
